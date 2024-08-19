@@ -358,7 +358,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Light
 
-- [Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity.
+- [Aura](https://github.com/Rockwall33/Aura) - Volumetric Lighting for Unity.
 - [Simple Light Probe Placer](https://github.com/AlexanderVorobyov/simple-light-probe-placer) - A simple tool for Unity3d and it help you easily place Light Probes in your scene.
 - [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - Volumetric Lights for Unity.
 - [Rimlight](https://github.com/AdultLink/Rimlight) - Customizable rimlight shader for Unity that includes pulsation and noise scrolling. Give your scenes that extra oomph!.
